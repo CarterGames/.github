@@ -1,8 +1,7 @@
 ![V3 Banner 150 height](https://user-images.githubusercontent.com/33253710/183310405-2fa88a91-64f2-4d46-bd78-133b1cc6899e.jpg)
 
-Carter Games started as a name to release under for its owner and is still active since its foundation in 2018. The majority of products are tools to aid with beginner game development, however some are more advanced. There are some game projects as well, but these are hidden from public view as they are not open source. Below you'll see the open source tool we have developed, all of which are FREE! 
+Hello, I’m J, but I release under the name of “Carter Games”. I started this back in 2018 & have kept releasing my personal projects under it ever since. I currently work full-time in the games industry and work this on the side in my spare time. The majority of products are tools to aid with beginner game development, however some are more advanced. There are some game projects as well, but these are hidden from public view as they are not open-source. Below you'll see the open-source tool we have developed, all of which are <b>FREE!</b> 
 
-If you are feeling generous you can support the developers here:
+If you are feeling generous you can support me here:
 
-<a href="https://www.buymeacoffee.com/cartergames">![Coffee](https://user-images.githubusercontent.com/33253710/191329431-af342186-c39d-4f3b-9e3d-9077d2f3cb92.png)</a>
-<a href="https://assetstore.unity.com/publishers/43356">![AssetStore](https://user-images.githubusercontent.com/33253710/191329909-0b6d7924-65b9-4532-935d-fb00413911ca.png)</a>
+<a href="https://www.buymeacoffee.com/cartergames">![kofi6](https://github.com/user-attachments/assets/54048822-2ec4-4c66-97bc-3ad9d5e1a73a)</a>
