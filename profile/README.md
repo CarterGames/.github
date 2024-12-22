@@ -4,4 +4,4 @@ Hello, I’m J, but I release under the name of “Carter Games”. I started th
 
 If you are feeling generous you can support me here:
 
-<a href="https://www.buymeacoffee.com/cartergames">![kofi6](https://github.com/user-attachments/assets/54048822-2ec4-4c66-97bc-3ad9d5e1a73a)</a>
+<a href="https://ko-fi.com/cartergames">![kofi6](https://github.com/user-attachments/assets/54048822-2ec4-4c66-97bc-3ad9d5e1a73a)</a>
